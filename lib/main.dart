@@ -502,9 +502,6 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                               List myList = enteredText.split(operator);
                               double number1 = double.parse(myList[0]);
                               double number2 = double.parse(myList[1]);
-                              //print(number1);
-                              //print(number2);
-                              //print(operator);
                               switch (operator) {
                                 case '+':
                                   {
