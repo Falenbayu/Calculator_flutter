@@ -86,7 +86,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                               'AC',
                               style: TextStyle(
                                 color: Color(0xff26F4CE),
-                                fontSize: 20,
+                                fontSize: 17,
                               ),
                             ),
                           ),
@@ -114,10 +114,10 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                               ),
                             ),
                             child: const Text(
-                              '+/_',
+                              '+/-',
                               style: TextStyle(
                                 color: Color(0xff26F4CE),
-                                fontSize: 20,
+                                fontSize: 17,
                               ),
                             ),
                           ),
